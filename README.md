@@ -50,20 +50,9 @@ python detect_aruco.py --image sample.jpg
 ```
 
 ## **Examples**  
-### **Generated ArUco Marker**  
-![Generated Marker] 
+###
+![marker_0](https://github.com/user-attachments/assets/3d07f37d-da84-4975-9bbc-4967d9d194c8)
+aruco generation
+![image](https://github.com/user-attachments/assets/c69051df-7c05-4d00-a578-0e81ba291b2f)
+aruco detection 
 
-
-
-
-### *
-![marker_0](https://github.com/user-attachments/assets/3fc9877f-172f-4bf9-96e0-c810af996833)
-*Marker Detection Output**  
-![Detection Output]
-
-## **Contributing**  
-Feel free to contribute by submitting pull requests or reporting issues.  
-
----
-
-Let me know if you need further modifications! 🚀
