@@ -51,10 +51,15 @@ python detect_aruco.py --image sample.jpg
 
 ## **Examples**  
 ### **Generated ArUco Marker**  
-![Generated Marker](assets/sample_marker.png)  
+![Generated Marker] 
 
-### **Marker Detection Output**  
-![Detection Output](assets/detection_output.png)  
+
+
+
+### *
+![marker_0](https://github.com/user-attachments/assets/3fc9877f-172f-4bf9-96e0-c810af996833)
+*Marker Detection Output**  
+![Detection Output]
 
 ## **Contributing**  
 Feel free to contribute by submitting pull requests or reporting issues.  
