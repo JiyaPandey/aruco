@@ -53,7 +53,6 @@ python detect_aruco.py --image sample.jpg
 ###
 aruco generation
 ![image](https://github.com/user-attachments/assets/c69051df-7c05-4d00-a578-0e81ba291b2f)
-aruco detection 
-![image](https://github.com/user-attachments/assets/359fa837-224c-444b-bd05-f680a708fc19)
+
 
 
